@@ -6,6 +6,6 @@ package artifactory.test;
 public class Project {
     public static void main(String[] args) {
         new Project();
-        System.out.println("Hello World! This is Lavanya Meganathan");
+        System.out.println("Lavanya Meganathan's First Git HUB integration");
     }
 }
